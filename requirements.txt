@@ -1,0 +1,5 @@
+PyMuPDF
+pdfplumber
+reportlab
+colorama
+python-dotenv
